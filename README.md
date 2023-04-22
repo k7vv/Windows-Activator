@@ -1,2 +1,2 @@
-# WindowsActivation-MAS
+# MAS
 full credits to MAS
